@@ -1,0 +1,35 @@
+.title{
+
+color:green;
+font-size: 23px;
+font-weight: 450px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-bottom: 5;
+margin-left: 15px;
+
+}
+
+
+
+.subtitle{
+
+    color: black;
+    font-size: 40px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    margin-top: 15px;
+}
+.subtitlew{
+
+    color: whitesmoke;
+    font-size: 40px;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    margin-top: 15px;
+
+
+}
+.d-block w-100{
+
+    opacity: .15;
+
+
+}
